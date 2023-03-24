@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/chocolate-critique-rbwws.blank-lfmp6xtv",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve p8xAImd7sXRrPnhWJZqD --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
